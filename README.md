@@ -1,1 +1,1 @@
-# powerbi-sales-dashboard
+![Dashboard](dashboard.png)
