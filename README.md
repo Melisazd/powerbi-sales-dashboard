@@ -1,1 +1,1 @@
-![Dashboard](dashboard.png)
+![Dashboard](powerbi_dashboard.png)
